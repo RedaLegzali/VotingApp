@@ -1,0 +1,20 @@
+---
+version: "3.8"
+
+services:
+  redis:
+    # Complete this
+  db:
+    # Complete this
+  worker:
+    # Complete this
+  result:
+    # Complete this
+  vote:
+    # Complete this
+
+networks:
+    # Complete this
+
+volumes:
+    # Complete this
